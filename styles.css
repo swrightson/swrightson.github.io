@@ -10,7 +10,7 @@ body {
   /* End of sticky footer section */
 }
 #header {
-  background-color: #ff9933;
+  background-color: #30a076;
   height: 150px;
   line-height: 150px;
 }
@@ -27,7 +27,7 @@ body {
   display: block;
   float: left;
   padding-left: 20px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
 }
 #header-nav {
@@ -84,7 +84,6 @@ a:hover {
   padding: 60px 0;
 }
 .post-author img {
-  width: 50px;
   height: 50px;
   vertical-align: middle;
 }
@@ -108,7 +107,7 @@ p {
   text-align: center;
 }
 .post-author img, .about-author img {
-  border-radius: 20%;
+  border-radius: 5%;
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
